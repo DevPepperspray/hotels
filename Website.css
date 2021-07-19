@@ -410,13 +410,13 @@ h4 {
 .boxxx {
     border: solid #084482;
     background-color: #084482;
-    padding: 0px 390px 0px 146px;
-    width: 121%;
+    padding: 0px 250px 0px 146px;
+    width: 146%;
     height: 88px;
     display: inline-flex;
     justify-content: space-between;
     text-align: left;
-    margin-left: -145px;
+    margin-left: -295px;
 }
 
 
