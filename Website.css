@@ -575,7 +575,7 @@ input[type=texttt] {
 
 .callus {
     background-color: #084482;
-    width: 192px;
+    width: 210px;
     border: 1px #084482;
     padding: 50px;
     height: 35px;
@@ -716,7 +716,6 @@ input[type=date] {
     margin-top: .125rem;
     text-align: center;
     font-family: lato;
-    text-align: center;
     line-height: 30px;
 }
 
@@ -733,6 +732,7 @@ input[type=date] {
 #navbar {
     margin-top: -15px;
     color: white;
+    font-size: small;
 }
 
 .callus p {
